@@ -25,7 +25,7 @@ authors:
     affiliation: [1]
     position: Researcher
   - name: I Made Aswin Nahrendra
-    affiliation: [1]
+    affiliation: [2]
     position: Researcher
   - name: Hyun Myung*
     affiliation: [1]
@@ -36,6 +36,7 @@ authors:
   #   url: https://thispersondoesnotexist.com/
 affiliations:
   - KAIST, Electrical Engineering
+  - KRAFTON
 meta:
   - '*Corresponding author.'
 bibtex: >
